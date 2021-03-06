@@ -55,7 +55,7 @@
 
 ## Overview
 
-Data is made accessible through an HTTP API mainly inspired from [OpenUDC_exchange_formats draft](https://github.com/Open-UDC/open-udc/blob/master/docs/OpenUDC_exchange_formats.draft.txt), and has been adapted to fit Duniter specificities.
+Data is made accessible through an HTTP API mainly inspired from [OpenUDC_exchange_formats draft](https://github.com/Open-UDC/open-udc/blob/master/docs/rfc/OpenUDC_exchange_formats.draft.txt), and has been adapted to fit Duniter specificities.
 
     http[s]://Node[:port]/...
     |-- node/
